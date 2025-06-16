@@ -5,7 +5,7 @@ I'm a passionate **Full-Stack Developer** with 2+ years of experience building m
 - 🔭 Currently working on cross-platform apps for startups and small businesses  
 - 🌱 Exploring **GraphQL** and advanced **React Native animations**  
 - ⚡ Fun fact: I love turning complex problems into elegant solutions  
-- 📫 Reach me: [abdullahtallat008@gmail.com] | [LinkedIn]([https://linkedin.com/in/yourprofile](http://www.linkedin.com/in/abdullah-tallat008))
+- 📫 Reach me: [abdullahtallat008@gmail.com] | [LinkedIn](http://www.linkedin.com/in/abdullah-tallat008)
 
 ## 🛠 Tech Stack
 
