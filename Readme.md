@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah Tallat
 
-I'm a passionate **Full-Stack Developer** with 2+ years of experience building mobile  using **React Native**, **Node.js** and **Express**.
+I'm a passionate **Full-Stack Developer** with 2+ years of experience building mobile  using **React Native/Expo**, **Node.js** and **Express**.
 
 - 🔭 Currently working on cross-platform apps for startups and small businesses  
 - 🌱 Exploring **GraphQL** and advanced **React Native animations**  
