@@ -3,7 +3,7 @@
 I'm a passionate **React Native Developer** with over 2.5 years of experience building mobile  using **React Native** , **Expo**, **Node.js** and **Express**.
 
 - 🔭 Currently working on cross-platform apps for startups and small businesses  
-- 🌱 Exploring **GraphQL** and advanced **React Native animations**
+- 🌱 Exploring **on-device AI inference**, **agentic mobile workflows**, and **RAG pipelines** for production apps
 - 🌐 Portfolio: https://abdullahtallat.vercel.app 
 - ⚡ Fun fact: I love turning complex problems into elegant solutions  
 - 📫 Reach me: [abdullahtallat008@gmail.com] | [LinkedIn](http://www.linkedin.com/in/abdullah-tallat008)
