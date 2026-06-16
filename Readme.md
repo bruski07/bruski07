@@ -10,8 +10,6 @@ I'm a passionate **React Native Developer** with over 3 years of experience buil
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 ### 📱 Mobile & Frontend
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
